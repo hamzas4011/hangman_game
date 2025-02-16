@@ -1,6 +1,8 @@
 # 🍎 Fruits Hangman Game 🎮
 
-A simple Hangman game built with Python, featuring fruit-related words. 
+Guess the fruit, beat the game! 🍎 A simple Python game challenge with only 3 attempts!
+
+---
 
 ## 📝 Features
 ✅ Randomly selects a fruit  
@@ -8,6 +10,8 @@ A simple Hangman game built with Python, featuring fruit-related words.
 ✅ 3 attempts to guess the word  
 ✅ Option to quit anytime by typing 'q'  
 ✅ Option to play again  
+
+---
 
 ## 📷 Screenshots  
 ### **Game Start**
@@ -21,4 +25,7 @@ A simple Hangman game built with Python, featuring fruit-related words.
 
 ![finish-game](https://github.com/user-attachments/assets/8ec4a10e-b0c8-4436-9502-fcc56cf258a9)
 
+---
 
+## 🚀 How to Run
+You can clone this project and run it.
